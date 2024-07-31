@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1722437664336" clover="3.2.0">
+  <project timestamp="1722437664336" name="All files">
+    <metrics statements="29" coveredstatements="29" conditionals="7" coveredconditionals="7" methods="7" coveredmethods="7" elements="43" coveredelements="43" complexity="0" loc="29" ncloc="29" packages="1" files="7" classes="7"/>
+    <file name="bowerman.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\bowerman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="daemon.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\daemon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="magician.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\magician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="mainCharacter.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\mainCharacter.js">
+      <metrics statements="11" coveredstatements="11" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="5" count="9" type="cond" truecount="5" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="7" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+      <line num="18" count="7" type="stmt"/>
+    </file>
+    <file name="swordsman.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\swordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="undead.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\undead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="zombie.js" path="C:\Users\Denis\Desktop\курсики\classes2\src\heroes\zombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
